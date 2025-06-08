@@ -17,9 +17,11 @@
 <style scoped>
 .container{
     background-color: aliceblue;
-    border-radius: 10rem;
+    border-radius: 6rem;
     /* opacity: 70%; */
     padding: 1rem;
+    width: 50rem;
+    height: 10rem;
 }
 
 

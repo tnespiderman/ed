@@ -12,11 +12,7 @@
 
 <style scoped>
 .Title {
-  /* background-color: #8C705F; */
-  border-radius: 12rem;
-  width:20rem;
-  /* padding: 1rem; */
-  font-size: 3em;
+  font-size: 4em;
   color: #ffff;
 
 }
@@ -25,5 +21,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 10rem;
 }
 </style>

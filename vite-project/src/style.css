@@ -2,11 +2,8 @@
   font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
-  line-height: 1.5;
 
-  color-scheme: light dark;
   color: #1F0318;
-  /* background-color: #1F0318; */
   background-image: url(./assets/ard7f9gyuzia1.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -36,8 +33,8 @@ body, .container {
 }
 
 h1 {
-  font-size: 2.5em;
-  line-height: 1.1;
+  font-size: 2em;
+  line-height: .9;
 }
 
 button {
