@@ -15,7 +15,10 @@
   /* background-color: #8C705F; */
   border-radius: 12rem;
   width:20rem;
-  padding: 1rem;
+  /* padding: 1rem; */
+  font-size: 3em;
+  color: #ffff;
+
 }
 
 .titleblock {

@@ -18,7 +18,9 @@
 .container{
     background-color: aliceblue;
     border-radius: 10rem;
-    opacity: 50%;
+    /* opacity: 70%; */
+    padding: 1rem;
 }
+
 
 </style>
